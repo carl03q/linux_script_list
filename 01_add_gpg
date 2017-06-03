@@ -1,0 +1,6 @@
+#This command downloads one or more public keys from a keyserver. Each 
+key-id is a key ID. The command requires the option keyserver to specify 
+from which keyserver gpg should download the keys.
+
+gpg --recv-key 5CC908FDB71E12C2
+
