@@ -1,3 +1,6 @@
 #After that the Manjaro mirror servers will be tested, ranked & your 
 /etc/pacman.d/mirrorlist will be rewritten accordingly. 
 sudo pacman-mirrors -g
+
+sudo pacman-mirrors -g
+sudo pacman -Syyu
